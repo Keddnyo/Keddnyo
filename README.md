@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Keddnyo. A ❤ programming for Android. I already know **Java** and **Kotlin**.
+
+- 🔭 I’m currently working on a Flutter project.
+- 🌱 I’m currently learning Flutter.
+- ⚡ Fun fact: I like purple, black and cyan colors.
+
 <!--
 **Keddnyo/Keddnyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
